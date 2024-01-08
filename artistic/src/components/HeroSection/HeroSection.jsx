@@ -8,22 +8,100 @@ function HeroSection() {
     <>
       <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
         <SwiperSlide>
-          <div className="bg-[url(./1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center"></div>
+          <div className="bg-[url(./1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+            <div className="pl-24">
+              <p className="text-lg text-white pb-5">
+                CLEAN BEAUTY • CRUELTY FREE
+              </p>
+              <h1 className="text-6xl text-white text-left w-full pb-8">
+                Best Modern <br />
+                Wood Collection
+              </h1>
+              <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
+                Shop Now
+              </button>
+            </div>
+          </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center"></div>
+          <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+            <div className="pl-24">
+              <p className="text-lg text-white pb-5">
+                CLEAN BEAUTY • CRUELTY FREE
+              </p>
+              <h1 className="text-6xl text-white text-left w-full pb-8">
+                Best Modern <br />
+                Wood Collection
+              </h1>
+              <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
+                Shop Now
+              </button>
+            </div>
+          </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center"></div>
+          <div className="bg-[url(./3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+            <div className="pl-24">
+              <p className="text-lg text-white pb-5">
+                CLEAN BEAUTY • CRUELTY FREE
+              </p>
+              <h1 className="text-6xl text-white text-left w-full pb-8">
+                Best Modern <br />
+                Wood Collection
+              </h1>
+              <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
+                Shop Now
+              </button>
+            </div>
+          </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center"></div>
+          <div className="bg-[url(./1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+            <div className="pl-24">
+              <p className="text-lg text-white pb-5">
+                CLEAN BEAUTY • CRUELTY FREE
+              </p>
+              <h1 className="text-6xl text-white text-left w-full pb-8">
+                Best Modern <br />
+                Wood Collection
+              </h1>
+              <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
+                Shop Now
+              </button>
+            </div>
+          </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center"></div>
+          <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+            <div className="pl-24">
+              <p className="text-lg text-white pb-5">
+                CLEAN BEAUTY • CRUELTY FREE
+              </p>
+              <h1 className="text-6xl text-white text-left w-full pb-8">
+                Best Modern <br />
+                Wood Collection
+              </h1>
+              <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
+                Shop Now
+              </button>
+            </div>
+          </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center"></div>
+          <div className="bg-[url(./3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+            <div className="pl-24">
+              <p className="text-lg text-white pb-5">
+                CLEAN BEAUTY • CRUELTY FREE
+              </p>
+              <h1 className="text-6xl text-white text-left w-full pb-8">
+                Best Modern <br />
+                Wood Collection
+              </h1>
+              <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
+                Shop Now
+              </button>
+            </div>
+          </div>
         </SwiperSlide>
       </Swiper>
     </>
