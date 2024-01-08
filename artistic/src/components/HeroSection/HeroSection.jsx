@@ -14,8 +14,9 @@ function HeroSection() {
                 CLEAN BEAUTY • CRUELTY FREE
               </p>
               <h1 className="text-6xl text-white text-left w-full pb-8">
-                Best Modern <br />
-                Wood Collection
+                Enhance Your
+                <br />
+                Natural Beauty
               </h1>
               <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
                 Shop Now
@@ -26,12 +27,13 @@ function HeroSection() {
         <SwiperSlide>
           <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
-              <p className="text-lg text-white pb-5">
+              <p className="text-lg text-black pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
               </p>
-              <h1 className="text-6xl text-white text-left w-full pb-8">
-                Best Modern <br />
-                Wood Collection
+              <h1 className="text-6xl text-black text-left w-full pb-8">
+                Enhance Your
+                <br />
+                Natural Beauty
               </h1>
               <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
                 Shop Now
@@ -46,8 +48,9 @@ function HeroSection() {
                 CLEAN BEAUTY • CRUELTY FREE
               </p>
               <h1 className="text-6xl text-white text-left w-full pb-8">
-                Best Modern <br />
-                Wood Collection
+                Enhance Your
+                <br />
+                Natural Beauty
               </h1>
               <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
                 Shop Now
@@ -62,8 +65,9 @@ function HeroSection() {
                 CLEAN BEAUTY • CRUELTY FREE
               </p>
               <h1 className="text-6xl text-white text-left w-full pb-8">
-                Best Modern <br />
-                Wood Collection
+                Enhance Your
+                <br />
+                Natural Beauty
               </h1>
               <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
                 Shop Now
@@ -74,12 +78,13 @@ function HeroSection() {
         <SwiperSlide>
           <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
-              <p className="text-lg text-white pb-5">
+              <p className="text-lg text-black pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
               </p>
-              <h1 className="text-6xl text-white text-left w-full pb-8">
-                Best Modern <br />
-                Wood Collection
+              <h1 className="text-6xl text-black text-left w-full pb-8">
+                Enhance Your
+                <br />
+                Natural Beauty
               </h1>
               <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
                 Shop Now
@@ -94,8 +99,9 @@ function HeroSection() {
                 CLEAN BEAUTY • CRUELTY FREE
               </p>
               <h1 className="text-6xl text-white text-left w-full pb-8">
-                Best Modern <br />
-                Wood Collection
+                Enhance Your
+                <br />
+                Natural Beauty
               </h1>
               <button className="py-4 px-8 bg-[#9ea18e] text-white rounded-md">
                 Shop Now
